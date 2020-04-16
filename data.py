@@ -5,7 +5,7 @@ import random
 import h5py
 
 data_directory = ".../" #insert the directory you'll be working with
-img_size = 128
+img_size = 256
 categories = ["Positive", "Negative"]
 training_data = []
 
